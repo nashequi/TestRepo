@@ -1,5 +1,4 @@
 options(stringsAsFactors = FALSE)
-setwd("C:/Users/Dean/Desktop/Financial Econometrics/Final Assignment")
 
 library(rvest)
 library(tidyverse)
